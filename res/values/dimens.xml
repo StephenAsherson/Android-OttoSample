@@ -1,0 +1,6 @@
+<resources>
+    <!-- General page dimensions -->
+       <!-- General page dimensions -->
+    <dimen name="contact_widget_width">250dp</dimen>
+    
+</resources>

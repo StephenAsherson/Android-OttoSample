@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">OttoSample</string>
+    <string name="title_activity_main">OttoSample</string>
+    <string name="contact_name">Name</string>
+    <string name="contact_surname">Surname</string>
+    <string name="contact_telnum">Tel No</string>
+    <string name="create_contact_view_summary_button">View Summary</string>
+    <string name="create_contact_enter_details_header">Enter Contact Details:</string>
+    <string name="contact_details_summary_header">Contact Summary:</string>
+
+</resources>
